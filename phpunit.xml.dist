@@ -2,7 +2,7 @@
 <phpunit colors="true"
          bootstrap="./vendor/autoload.php">
     <testsuites>
-        <testsuite name="Wengado Framework Test Suite">
+        <testsuite name="Wengado Framework Test Pack">
             <directory suffix="Test.php">./tests</directory>
         </testsuite>
     </testsuites>
