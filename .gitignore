@@ -1,2 +1,4 @@
-/cache/
-/config/development/
+/vendor/
+composer.lock
+.idea/
+/.phpunit.result.cache

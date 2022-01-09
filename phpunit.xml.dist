@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phpunit colors="true"
+         bootstrap="./vendor/autoload.php">
+    <testsuites>
+        <testsuite name="Wengado Framework Test Suite">
+            <directory suffix="Test.php">./tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
