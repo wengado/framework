@@ -1,2 +1,3 @@
-# framework
-The Wengado Framework
+# Wengado PHP Framework
+
+Enterprise-ready PHP MVC Framework
